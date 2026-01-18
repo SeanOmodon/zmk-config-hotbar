@@ -1,0 +1,6 @@
+if SHIELD_HOTBAR
+
+config ZMK_KEYBOARD_NAME
+    default "Hotbar"
+
+endif # SHIELD_HOTBAR
